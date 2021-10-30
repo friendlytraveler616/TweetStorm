@@ -1,47 +1,14 @@
-# Twitter - Part II
+# Tweetstorm
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is an app that utilizes the Twitter API to allow the user to view, compose, favorite, and retweet tweets
 
-Time spent: **5** hours spent in total
+In the application a user can log in and log out of their Twitter account. The user stays logged in across app restarts and the user can also view tweets with the user profile picture, username, and the contents of the tweet. The user can pull to refresh their tweets and they can load past tweets infinitely 
 
-## User Stories
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-The follo
-
-- [x] User can compose a tweet. (4pts)
-- [x] User can favorite a tweet. (4pts)
-- [x] User can retweet a tweet. (2pts)
-
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
+In the application a user can compose, favorite, and retweet tweets
 
 <img src= 'http://g.recordit.co/iT0ETPajOa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-# Twitter - Part I
 
-This is a basic twitter app to read your tweets.
 
-Time spent: **5** hours spent in total
-
-## User Stories
-
-The following **required** functionality is completed:
-
-- [x] User sees app icon in home screen and styled launch screen. (1pt)
-- [x] User can log in. (1pt)
-- [x] User can log out. (1pt)
-- [x] User stays logged in across restarts. (1pt)
-- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
-
-The following **bonus** features are implemented:
-
-- [x] User can pull to refresh. (1pt)
-- [x] User can load past tweets infinitely. (2pts)
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
